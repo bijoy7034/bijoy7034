@@ -2,7 +2,7 @@
 
 ## About me
 
-Full Stack Engineer with 1 year of experience in full-stack web application development, AI agent automation, and cybersecurity solutions. Expert in Python FastAPI and React, with specialized experience in building AI-powered threat hunting agents for cybersecurity operations at CyberProof.
+Full Stack Engineer with experience in full-stack web application development, AI agent automation, and cybersecurity solutions. Expert in Python FastAPI and React, with specialized experience in building AI-powered threat hunting agents for cybersecurity operations at CyberProof.
 
 ### 🛠 &nbsp;Languages and Tools
 
