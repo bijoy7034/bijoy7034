@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a software engineer who is passionate about making contributions to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), Python Django, and AWS. 
+Full Stack Engineer with 1 year of experience in full-stack web application development, AI agent automation, and cybersecurity solutions. Expert in Python FastAPI and React, with specialized experience in building AI-powered threat hunting agents for cybersecurity operations at CyberProof.
 
 ### 🛠 &nbsp;Languages and Tools
 
